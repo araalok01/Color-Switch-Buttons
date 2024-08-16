@@ -1,0 +1,43 @@
+body {
+  background-color: #fafafa;
+  color: black;
+}
+
+.button {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #ecfeec;
+  border-radius: 15px;
+  border-color: red yellow green hsla(60, 90%, 50%, .8);
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+}
+
+span {
+  display: inline-block;
+}
+
+#grey {
+  background-color: gray;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
+
+#yellow {
+  background-color: #cfcf17;
+}
+
+#green {
+  background-color: green;
+}
+
+#white {
+  background-color: white;
+}
