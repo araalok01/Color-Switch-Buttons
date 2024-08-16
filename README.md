@@ -19,4 +19,4 @@ A simple web application that allows users to change the background color of the
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Color-Switch-Buttons.git
+   git clone https://github.com/araalok01/Color-Switch-Buttons
